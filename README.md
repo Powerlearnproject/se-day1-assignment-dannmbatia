@@ -24,6 +24,7 @@ Effective software engineering practices help in controlling costs by identifyin
 Scalability and Maintainability:
 
 Software engineering principles such as modularity and documentation ensure that software systems are scalable and maintainable. This means that software can be easily updated, expanded, or modified to adapt to new requirements or technologies.
+
 User Satisfaction:
 
 By focusing on requirement analysis and user feedback, software engineering ensures that the final product meets user needs and expectations. This leads to higher user satisfaction and better user experiences.
