@@ -152,6 +152,7 @@ Project Planning: Define project scope, objectives, timelines, and deliverables 
 Resource Management: Allocate resources, including personnel, budget, and tools, to ensure project success.
 Coordination: Facilitate communication and coordination among team members, stakeholders, and other departments.
 Risk Management: Identify potential risks and issues, develop mitigation strategies, and address challenges as they arise.
+
 Responsibilities:
 
 Project Execution: Oversee the day-to-day activities of the project, ensuring tasks are completed on schedule and within budget.
